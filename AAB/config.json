@@ -1,0 +1,14 @@
+{
+    "Author" : "Yash-Kun",
+    "Licensed_under" : "GNU GPL V-3.0",
+    "owner" : ["Replace with ID of sudos."],
+    "database_url" : "Your Mongo",
+    "main_channel" : "Id or channel username",
+    "thumbnail_url" : "AAB/utils/thumb.jpeg",
+    "files_channel" : -100,
+    "production_chat" : -100,
+    "api_id" : 123456,
+    "api_hash" : "Api Hash",
+    "main_bot" : "Main Bot for file transfer",
+    "client_bot" : "Client Bot for upload"
+}

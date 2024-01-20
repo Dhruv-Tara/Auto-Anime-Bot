@@ -1,2 +1,5 @@
+# Licensed under GNU General Public License
+# Copyright (C) 2024  Dhruv-Tara
+
 # Auto detect text files and perform LF normalization
 * text=auto

@@ -1,0 +1,6 @@
+pyrogram
+TgCrypto
+requests
+pymongo[srv]
+requests
+lxml
