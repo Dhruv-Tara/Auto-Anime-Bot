@@ -87,3 +87,4 @@ For any issues or feature requests, please open an issue on the [GitHub reposito
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/Dhruv-Tara/Auto-Anime-Bot/blob/main/LICENSE).
+varun sandesh
